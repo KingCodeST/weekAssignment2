@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b62730a1-e1ed-4879-bef7-d0161fabb73d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/objectEquality/target/" />
+    <ignored path="$PROJECT_DIR$/objectIdentity/target/" />
+    <ignored path="$PROJECT_DIR$/timeoutTest/target/" />
+    <ignored path="$PROJECT_DIR$/FailingTest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/objectIdentity/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/objectEquality/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/timeoutTest/pom.xml" />
+        <option value="$PROJECT_DIR$/FailingTest/src/main/java/Employee.java" />
+        <option value="$PROJECT_DIR$/FailingTest/src/main/java/za/ac/cputassignment3/Employee.java" />
+        <option value="$PROJECT_DIR$/timeoutTest/src/main/java/za/ac/cputassignment3/App.java" />
+        <option value="$PROJECT_DIR$/timeoutTest/src/test/java/za/ac/cputassignment3/AppTest.java" />
+        <option value="$PROJECT_DIR$/FailingTest/src/test/java/za/ac/cputassignment3/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/objectIdentity/src/main/java/za/ac/cputassignment3/App.java" />
+        <option value="$PROJECT_DIR$/objectEquality/src/main/java/za/ac/cputassignment3/Student.java" />
+        <option value="$PROJECT_DIR$/objectEquality/src/test/java/za/ac/cputassignment3/StudentTest.java" />
+        <option value="$PROJECT_DIR$/FailingTest/pom.xml" />
+        <option value="$PROJECT_DIR$/objectEquality/pom.xml" />
+        <option value="$PROJECT_DIR$/objectIdentity/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weekAssignment2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekAssignment2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weekAssignment2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekAssignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="FailingTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weekAssignment2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekAssignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="objectEquality" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weekAssignment2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekAssignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="objectIdentity" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552061828081" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="za.ac.cputassignment3" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in weekAssignment2 (1)">
+    <configuration name="All in FailingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FailingTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in weekAssignment2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekAssignment2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in weekAssignment2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekAssignment2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.getLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FailingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cputassignment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cputassignment3" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cputassignment3.EmployeeTest" />
+      <option name="METHOD_NAME" value="getLastName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.getFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="objectEquality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cputassignment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cputassignment3" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cputassignment3.StudentTest" />
+      <option name="METHOD_NAME" value="getFirstName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in weekAssignment2 (1)" />
+        <item itemvalue="JUnit.All in FailingTest" />
+        <item itemvalue="JUnit.All in weekAssignment2" />
+        <item itemvalue="JUnit.StudentTest.getFirstName" />
+        <item itemvalue="JUnit.EmployeeTest.getLastName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b62730a1-e1ed-4879-bef7-d0161fabb73d" name="Default Changelist" comment="" />
+      <created>1552050475627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552050475627</updated>
+      <workItem from="1552050478390" duration="8905000" />
+      <workItem from="1552060376371" duration="1383000" />
+    </task>
+    <task id="LOCAL-00001" summary="comit files that xml">
+      <created>1552058234917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552058234917</updated>
+    </task>
+    <task id="LOCAL-00002" summary="comit files that xml">
+      <created>1552059494944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552059494944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comit files that xml">
+      <created>1552061681688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552061681688</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EmployeeTest_getId - 2019.03.08 at 16h 29m 36s.xml">
+      <configuration name="EmployeeTest.getId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_getId - 2019.03.08 at 16h 30m 17s.xml">
+      <configuration name="EmployeeTest.getId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_getFirstName - 2019.03.08 at 16h 31m 24s.xml">
+      <configuration name="EmployeeTest.getFirstName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_getAge - 2019.03.08 at 16h 34m 08s.xml">
+      <configuration name="EmployeeTest.getAge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_getLastName - 2019.03.08 at 16h 36m 01s.xml">
+      <configuration name="EmployeeTest.getLastName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeTest_getLastName - 2019.03.08 at 16h 38m 06s.xml">
+      <configuration name="EmployeeTest.getLastName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_weekAssignment2 - 2019.03.08 at 18h 01m 44s.xml">
+      <configuration name="All in weekAssignment2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_FailingTest - 2019.03.08 at 18h 02m 32s.xml">
+      <configuration name="All in FailingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_FailingTest - 2019.03.08 at 18h 03m 14s.xml">
+      <configuration name="All in FailingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_weekAssignment2_(1) - 2019.03.08 at 18h 13m 03s.xml">
+      <configuration name="All in weekAssignment2 (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10288000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25567323" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.33387887" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.33060557" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32967034" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comit files that xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit files that xml" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/timeoutTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FailingTest/src/main/java/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/FailingTest/src/main/java/za/ac/cputassignment3/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#1195#1196#0" expanded="true" />
+            <element signature="e#1234#1235#0" expanded="true" />
+            <element signature="e#1601#1602#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objectIdentity/src/main/java/za/ac/cputassignment3/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objectEquality/src/main/java/za/ac/cputassignment3/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objectEquality/src/test/java/za/ac/cputassignment3/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeoutTest/src/main/java/za/ac/cputassignment3/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeoutTest/src/test/java/za/ac/cputassignment3/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objectEquality/src/main/java/za/ac/cputassignment3/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FailingTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FailingTest/src/test/java/za/ac/cputassignment3/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objectIdentity/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objectEquality/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
